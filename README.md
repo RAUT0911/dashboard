@@ -11,3 +11,4 @@ step3 : set up device configuration to CHROME/EDGE (web based device)
 
 step4 : Run the project
 
+![Screenshot (3)](https://github.com/user-attachments/assets/1a51a454-1d16-493c-b7e0-805dd0d29994)
