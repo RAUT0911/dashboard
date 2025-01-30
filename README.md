@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+step1 : Clone the project
+git clone https://github.com/RAUT0911/dashboard.git
 
-This project is a starting point for a Flutter application.
+step2 : open the clone folder in android studio
 
-A few resources to get you started if this is your first Flutter project:
+step3 : set up device configuration to CHROME/EDGE (web based device)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+step4 : Run the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
